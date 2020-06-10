@@ -1,9 +1,5 @@
 # LAB 21 - Class 21
 
-Code 401 Lab 21 - Component Based UI
-
-# LAB 17 - Class 17
-
 ## Project Name - Counter React App
 
 Code 401 Lab 21 - Component Based UI
