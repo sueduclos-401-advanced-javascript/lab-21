@@ -29,4 +29,4 @@ Your application should implement the same basic functionality, though note that
 
 #### UML
 
-- ![UML21]((https://github.com/sueduclos-401-advanced-javascript/lab-21/blob/master/assets/lab-21-uml.png))
+- ![UML21](https://github.com/sueduclos-401-advanced-javascript/lab-21/blob/master/assets/lab-21-uml.png)
